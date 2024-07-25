@@ -11,8 +11,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinayKumar12&theme=dark)](https://git.io/streak-stats)
 ### Connect with me
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/your-profile/)
-[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>](https://twitter.com/your-profile)
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/binay-kumar-kurmi-b06429293/))
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>]([https://twitter.com/your-profile](https://x.com/KumarBinay25823))
 [<img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>](https://github.com/BinayKumar12)
 
 
