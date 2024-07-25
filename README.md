@@ -9,6 +9,20 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=Binaykumar12" alt="trophy" height=225px" width="620px"></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinayKumar12&theme=dark)](https://git.io/streak-stats)
+### Connect with me
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/your-profile/)
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>](https://twitter.com/your-profile)
+[<img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>](https://github.com/BinayKumar12)
+
+
+<div align="center">
+  <a href="https://github.com/BinayKumar12/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinayKumar12&layout=donut-vertical" alt="Top Langs">
+  </a>
+</div>
+
+
 <h2> 🚀 &nbsp;Some Tools I have Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
