@@ -14,6 +14,7 @@
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/binay-kumar-kurmi-b06429293/)
 [<img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>](https://x.com/KumarBinay25823)
 [<img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>](https://github.com/BinayKumar12)
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>](https://www.facebook.com/profile.php?id=100054903687163)
 
 
 <div align="center">
