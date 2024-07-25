@@ -1,5 +1,6 @@
-## Hi there 👋
-# Welcome
+### Hi, I'm Binay Kumar Kurmi👋
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+# Welcome to My Github Profile
  <p align="center">
    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&preferLogin=false">    <img  alt="devsdenepal's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Binaykumar12?cardType=level-alternate&theme=radical&preferLogin=false" />  </a>
   </p>
@@ -8,6 +9,10 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?theme=dark_lover&amp;username=Binaykumar12" alt="trophy" height=225px" width="620px"></a>
 </p>
+
+ [![Binay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BinayKumar12&theme=react-dark)](https://github.com/BinayKumar12/github-readme-activity-graph)
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinayKumar12&theme=dark)](https://git.io/streak-stats)
 ### Connect with me
