@@ -1,12 +1,9 @@
 <!-- Introduction -->
 # Hi, I'm Binay Kumar Kurmi 👋
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="300"/>
-</div>
 
 ### Welcome to My GitHub Profile
 <p align="center">
-  I'm a passionate coder and aspiring Data Analyst. I enjoy building projects, learning new technologies, and exploring programming challenges.
+I'm an aspiring Data Analyst who enjoys working with data, building coding projects, and exploring new technologies to solve real-world problems.
 </p>
 
 ---
@@ -84,4 +81,4 @@
 ---
 
 ### ✨ Fun Fact
-I love solving coding challenges and exploring new tech trends. Let's build something amazing together!
+I make code work… eventually.🤪
