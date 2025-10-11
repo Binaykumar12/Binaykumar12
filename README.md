@@ -23,7 +23,7 @@ I'm an aspiring Data Analyst who enjoys working with data, building coding proje
   </a>
 </p>
 
-
+[![An image of @binaykumar12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/binaykumar12)](https://holopin.io/@binaykumar12)
 ---
 
 <!-- Most Used Languages -->
