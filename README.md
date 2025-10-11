@@ -23,8 +23,13 @@ I'm an aspiring Data Analyst who enjoys working with data, building coding proje
   </a>
 </p>
 
-[![An image of @binaykumar12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/binaykumar12)](https://holopin.io/@binaykumar12)
----
+<h2 align="center">🎖 Holopin Badges</h2>
+<p align="center">
+  <a href="https://holopin.io/@binaykumar12">
+    <img src="https://holopin.me/binaykumar12" alt="@binaykumar12's Holopin badges" height="225px" width="620px"/>
+  </a>
+</p>
+
 
 <!-- Most Used Languages -->
 <h2 align="center">💻 Top Languages</h2>
@@ -34,7 +39,7 @@ I'm an aspiring Data Analyst who enjoys working with data, building coding proje
   </a>
 </p>
 
----
+
 
 <!-- Tools -->
 <h2 align="left">🛠️ Tools I Have Learned</h2>
@@ -44,7 +49,8 @@ I'm an aspiring Data Analyst who enjoys working with data, building coding proje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Colab" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="45" height="45"/>
+
 </p>
 
 <!-- Programming Languages -->
@@ -59,7 +65,7 @@ I'm an aspiring Data Analyst who enjoys working with data, building coding proje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
 </p>
 </p>
----
+
 
 <h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
